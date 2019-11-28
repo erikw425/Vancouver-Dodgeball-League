@@ -7,5 +7,5 @@ creating actionable insights for increasing player retention, engagement, and sa
 For the JDRF Dodgeball Open I analyed over 13,000 survey answers to visualize key demographic information for sponsors.
 <UL>
 <LI><a href="https://github.com/erikw425/Vancouver-Dodgeball-League/blob/master/JDRF%20Dodgeball%20Open%20Sponsorship%20Package.pdf">
-JDRF Dodgeball Open Sponsorship Pacakge</a>
+JDRF Dodgeball Open Sponsorship Document</a>
 </UL>
